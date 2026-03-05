@@ -23,8 +23,8 @@ Pour le moment, sont implémentés en Julia 4 algorithmes de recherche du plus c
 1. Clonage du dépôt :
 
 
-    git clone ...
-    cd PathFinding
+    git clone https://github.com/epalierne/Projet_XLG6IU390_2026.git
+    cd Projet_XLG6IU390_2026
 
 2. Compilation :
 
