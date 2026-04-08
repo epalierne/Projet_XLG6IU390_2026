@@ -3,7 +3,7 @@
 ## Description
 
 Le but de ce projet est de produire une solution logicielle à un problème de _pathfinding_.
-Pour le moment, sont implémentés en Julia 4 algorithmes de recherche du plus court chemin : 
+Ici sont implémentés en Julia 4 algorithmes de recherche du plus court chemin : 
 
 - l'algorithme BFS, 
 - l'algorithme de Dijkstra, 
